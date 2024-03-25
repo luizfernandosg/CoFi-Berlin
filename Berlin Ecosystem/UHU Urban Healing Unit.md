@@ -1,0 +1,1 @@
+A space dedicated to wellness and healing, offering ceremonies, workshops, seminars, and more, aimed at fostering a strong sense of community and personal well-being.

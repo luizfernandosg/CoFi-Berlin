@@ -1,0 +1,1 @@
+Focuses on delivering natural diversity by supplying misshapen but quality fruits and vegetables that don't meet the conventional retail standards, promoting food sustainability and reducing waste.

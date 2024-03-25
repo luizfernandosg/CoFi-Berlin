@@ -1,0 +1,1 @@
+We welcome artists, technologists, entrepreneurs, community weavers, mystics, thinkers and doers from around the world for 1-3 month visits during which time they help build our community, collaborate within the meaning economy and pursue what is calling them.

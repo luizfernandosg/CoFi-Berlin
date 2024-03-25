@@ -1,0 +1,3 @@
+Circles is one of the projects stewarded by [[Moos]] for experimenting our way to a solidarity economy. **[Circles](https://joincircles.net/)** is a UBI (universal basic income) to see what happens when a community accepts and offers services and goods with [[Circles UBI]]. There is no formal way to change circles to Euros so it creates a tight micro-economy.
+
+Support Circles [here](https://joincircles.net/donate/)

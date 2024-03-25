@@ -1,0 +1,1 @@
+Specializes in probiotic foods, offering workshops and products that emphasize the importance of gut health and sustainable food practices.
