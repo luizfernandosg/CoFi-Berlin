@@ -6,7 +6,7 @@ This knowledge base serves as a gateway to explore the diverse ecosystem of **[[
 
 **Initiatives at Moos:**
 - **[[MOOS GARDEN]]**: A global creative hub for community building.
-- **[[Residency]] & [[Voices]]**: Showcasing diverse collaborative opportunities and highlighting key contributors.
+- **[[Residency]]**: Showcasing diverse collaborative opportunities and highlighting key contributors.
 - **[[SEKS]] & [[Loob]]**: Focusing on narrative design tools and AI-driven platforms for collective storytelling.
 
 **Other Groups at Moos:** From **[[Tal der Verwirrung]]**'s creative spaces to **[[Ostmost]]**'s eco-certified beverages, Moos is a conglomerate of innovative and sustainable initiatives.
