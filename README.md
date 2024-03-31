@@ -19,7 +19,6 @@ The objective of this project is to create a dynamic knowledge base and ecosyste
 ## [[2. Aligning with Hackathon Pillars]]
 
 This project is aligned with the three pillars of Doing, Knowing, and Being, by:
-
 - **Doing:** Mapping the diverse ecosystem of Moos and Berlin into an expansive knowledge base to guide community engagement.
 - **Knowing:** Enhancing the initiation process through the collected wisdom, fostering meaningful connections.
 - **Being:** Utilizing AI agents like Loob as personalized gateways for deeper interaction with the ecosystems.
@@ -27,27 +26,33 @@ This project is aligned with the three pillars of Doing, Knowing, and Being, by:
 ## [[3. Design]]
 
 The knowledge base is designed with the following components:
-
-- **Backend:** A GitHub repository containing Markdown files as knowledge entries. [View Repo](https://github.com/luizfernandosg/CoFi-Berlin)
-- **Frontend:** The knowledge base is published online using Obsidian Publish. [View Knowledge Base](https://publish.obsidian.md/moos-ecosystem-map/Moos+Knowledge+Base)
-- **Integrations:** Collaborating with other Hackathon groups for data ingestion and visualization. This includes:
-    - David's Obsidian Node Canvas for web scraping and AI/LLM integration.
-    - Anton's Moos Community Map for visualizing the ecosystem and gamifying interactions.
+- **Backend:**
+	- GitHub Repo with Markdown files with metadata as knowledge entries - https://github.com/luizfernandosg/CoFi-Berlin
+- **Frontend:**
+	- Knowledge base published online using Obsidian Publish - https://publish.obsidian.md/moos-ecosystem-map/Moos+Knowledge+Base
+- **Integrations with other Hackathon groups:**
+	- **David's Obsidian Node Canvas**: integrating advanced web scraping and AI/LLM to ingest data from and to the knowledge base, integrating with Anton's community map - https://github.com/Davidiusdadi/obsidian-node-canvas
+	- **Anton's Moos Community Map**: map visualization of Moos' and Berlin's ecosystem of projects, with data coming from the knowledge base through David's integration, that allows for gamifying relations and engagements within the ecosystem - https://moos-map.de/
 
 ## [[4. Future Integrations and Developments - Loob]]
 
-Plans include integrating the knowledge base with Loob to serve as a personal agent and interface for accessing and contributing to Moos' collective knowledge.
+Integrate the knowledge base with Loob for it to be a personal agent and interface for Moos collective knowledge:
+- To have the knowledge base as knowledge repository, to expose and answer questions about Moos and its network of projects in Berlin, promoting curiosity and intentional exploration and engagement
+- To facilitate the collection of new insights through interactive chats, inviting users to contribute their experiences and knowledge, enriching the ecosystem's wisdom
 
 ## [[5. Future Integrations and Developments - CoFi Credit Clearing Tools]]
 
-Integration with CoFi credit clearing tools like Local Loop by Mutual Credit Services is planned to track financial interactions within the Berlin project network, aiming to bolster community resilience and optimize liquidity.
+- **CoFi Tools Integration**: Plans to incorporate CoFi (Collaborative Finance) credit clearing tools, like [Local Loop by Mutual Credit Services](https://www.loom.com/share/fac64fc7d8534d78bfeb412e05b8859b?sid=6021a7fa-8d3d-4078-89cb-1098df87852a), to track and promote financial interactions within the Berlin project network.
+	- With a map of the of interconnected projects in Berlin, it can be used as a base to track financial interactions
+- **Financial Resilience and Optimization**: This integration aims to bolster community resilience by reducing dependency on external capital, optimizing liquidity, and fostering mutual support through credit issuance.
 
 ## [[6. Envisioning the Impact]]
 
-This project aims to elevate visibility for community initiatives, foster a network of collaboration among aligned projects, and support the growth of Moos and the Berlin ecosystem in movements like CoFi and ReFi.
+- Elevates visibility for diverse community initiatives.
+- Fosters a network of collaboration among aligned projects.
+- Supports the growth of Moos as a vibrant, active community node in the Berlin ecosystem and in movements like CoFi and ReFi .
 
 ## [[7. Future Vision]]
 
-The future vision includes developing a network of interoperable knowledge bases and hosting a follow-up hackathon using Moos credits to further cultivate developments and foster deeper integration within the Berlin ecosystem.
-
-
+- **Interoperable Knowledge Networks**: Ambitious plans to develop a network of interoperable knowledge bases, using platforms like Murmurations for wider community engagement.
+- **Follow-Up Hackathon**: Aiming to utilize Moos credits - from a possible prize - to host a subsequent hackathon, further cultivating developments and fostering deeper integration within the Berlin ecosystem.
